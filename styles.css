@@ -7,3 +7,10 @@ img {
   border: 5px solid;
   border-color: #941c1c;
 }
+a {
+  text-decoration: none;
+  color: #0c244c;
+}
+a:hover {
+  color: #941c1c;
+}
