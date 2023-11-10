@@ -51,3 +51,13 @@ header {
 .push-down {
   margin-top: 7px;
 }
+.bold {
+  color: #941c1c;
+  font-weight: bolder;
+}
+.image-right {
+  float: right;
+}
+.push-left {
+  margin-right: 400px;
+}
